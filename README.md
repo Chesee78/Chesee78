@@ -30,7 +30,6 @@ const developer = {
             css: ["Tailwind", "Bootstrap",]
         },
         backEnd: {
-            js: ["Express"],
             python: ["FastAPI"],
         },
         databases: ["MongoDB", "MySQL",],
@@ -54,7 +53,6 @@ const developer = {
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
@@ -86,8 +84,8 @@ const developer = {
 ```diff
 + 🌱 Currently learning: TypeScript
 + 🔭 Working on: Open-source contribution to web3 projects
-+ 👯 Looking to collaborate on: Innovative full-stack applications
-+ 💬 Ask me about: JavaScript, Node.js, System Design
++ 👯 Looking to collaborate on: Innovative front-end applications
++ 💬 Ask me about: PHP, Node.js, System Design
 + ⚡ 2026 Goals: work as hard as possible
 ```
 
